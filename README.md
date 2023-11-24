@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, I'm Simon Mathebula, a dedicated and results-driven DevOps engineer with [7+] years of experience in designing, implementing, and optimizing CI/CD pipelines and infrastructure automation.
+Hello, I'm S!MON, a dedicated and results-driven DevOps engineer with [7+] years of experience in designing, implementing, and optimizing CI/CD pipelines and infrastructure automation.
 I'm passionate about streamlining software development processes, improving system reliability, and enabling teams to deliver high-quality applications with efficiency.
 
 As a DevOps engineer, my primary focus is to bridge the gap between development and operations by applying best practices, automating workflows and fostering collaboration. 

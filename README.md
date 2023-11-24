@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Hello, I'm S!MON, a dedicated and results-driven DevOps engineer with [7+] years of experience in designing, implementing, and optimizing CI/CD pipelines and infrastructure automation.
+Hello, I'm S!MON, a dedicated and results-driven DevOps engineer/SRE with [7+] years of experience in designing, implementing, and optimizing CI/CD pipelines and infrastructure automation.
 I'm passionate about streamlining software development processes, improving system reliability, and enabling teams to deliver high-quality applications with efficiency.
 
-As a DevOps engineer, my primary focus is to bridge the gap between development and operations by applying best practices, automating workflows and fostering collaboration. 
+As a DevOps engineer/SRE , my primary focus is to bridge the gap between development and operations by applying best practices, automating workflows and fostering collaboration. 
 I believe in the principles of Infrastructure as Code (IaC), continuous integration and continuous deployment (CI/CD), and containerization to achieve faster, more reliable, and scalable software delivery.
 
 ## Core Competencies
@@ -31,7 +31,7 @@ Feel free to reach out to me for collaboration, inquiries, or discussions about 
 - LinkedIn: www.linkedin.com/in/simon-mathebula-445614b2
 - Email: Mathebulasf@gmail.com
 
-I'm excited to be part of the DevOps community and contribute to the success of projects that value automation, scalability, and reliability.
+I'm excited to be part of the DevOps/SRE community and contribute to the success of projects that value automation, scalability, and reliability.
 
 <!---
 Simon-Dev-Ops/Simon-Dev-Ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
